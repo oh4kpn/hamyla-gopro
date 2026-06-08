@@ -6,7 +6,7 @@ Tämä asetussivu on optimoitu vauhdikkaaseen moottoripyöräkuvaukseen (kypär�
 
 | Asetus | Arvo | Kuvaus |
 | :--- | :--- | :--- |
-| **Resoluutio & FPS** | `4K / 60` | Optimaalinen suhde tarkkuutta ja sulavaa liikettä. |
+| **Resoluutio & FPS** | `4K / 60` | Optimaalinen suhde tarkkuutta ja sulavaa liikettä. (Johtuen firmiksen ominaisuuksista välkynnänesto pitää pakottaa 60Hz, muutoin hertsit ei sovi monitoreilla katseluun) |
 | **Linssi (Lens)** | `SuperView` | Laajentaa näkymää pysty- ja sivusuunnassa. Tuo tankoa ja mittaristoa kuvaan korostaen vauhtia. |
 | **Vakaus (HyperSmooth)** | `Standard` | Riittävä vakaus maantieajoon ilman, että kuvaa rajataan (cropataan) liikaa. |
 | **Videon pakkaus** | `HEVC` | Älykäs ja tilaa säästävä pakkausmuoto. Vaatii modernin editointikoneen. |
